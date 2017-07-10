@@ -1,0 +1,25 @@
+palabras 
+
+1	calor
+2	dulce
+3	suerte
+4	amarillo
+5	gorila
+6	brasil
+7	tren
+8	norte
+9	canguro
+10	cordero
+
+frases
+
+1	pienso luego existo
+2	todo hombre tiene derecho a decidir su propio destino
+3	a un loco se le conoce por sus actos, a un sabio tambien
+4	estudia el pasado si quieres predecir el futuro
+5	la confianza en si mismo es el primer secreto del exito
+6	un amigo es una persona con la que se puede pensar en voz alta
+7	lo que no me mata, me hace mas fuerte
+8	la realidad deja mucho a la imaginacion
+9	la simplicidad es la ultima sofisticacion
+10	siempre parece imposible hasta que se realiza
